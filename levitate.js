@@ -1,3 +1,8 @@
+// levitate.js
+// version 1.0.0
+// Author: Alex Tucker    Twitter: @_AlexTucker    GitHub: alextucker   Web: http://tucker.io
+// Levitate may be freely distributed under the MIT license.
+
 var LevitateHand = (function() {
     var LevitateHand = function(handFrame) {
         this.frame = handFrame;
